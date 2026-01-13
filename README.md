@@ -15,7 +15,7 @@
 - Выводы.
 
 ## Используемые инструменты
-- Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+- Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy.
 
 ## Визуализация
 По данному проекту был составлен дашборд - https://datalens.yandex/yhe21nezj0xyj
